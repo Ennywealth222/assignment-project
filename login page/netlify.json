@@ -3,7 +3,7 @@
         {
             "source": "/(.*)",
 
-            "destination" : "/login.html"
+            "destination" : "/index.html"
         }
     ]
 
