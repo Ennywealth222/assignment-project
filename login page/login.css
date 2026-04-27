@@ -1,0 +1,57 @@
+body {
+    background-image:url("project1.jpeg");
+    background-repeat:no-repeat;
+    background-position:center;
+    opacity:1;
+    margin-bottom:80px;
+}
+
+#logo {
+    width:8%;
+    margin-left:45%;
+    padding-top:30px;
+}
+
+.container {
+    background-color:rgb(249, 96, 96, 0.75);
+    color:#ffffff;
+    width:450px;
+    height:300px;
+    margin:10px auto 40px;
+    padding:10px 40px 30px 30px;
+    border-radius:5px;
+    text-align:center;
+}
+
+#line {
+    width:101.5%;
+    border-top:thick;
+}
+
+.form {
+    text-align:left;
+}
+
+.input {
+    width:100%;
+    margin-top:5px;
+    padding:5px 5px 5px 5px;
+    border:none;
+}
+
+#btn {
+    background-color:#000000;
+    color:#ffffff;
+    border:none;
+    width:102.5%;
+    padding:8px 5px 8px 5px;
+}
+
+#forget {
+    color:#000000;
+    text-align:right;
+}
+
+::placeholder {
+    color:#000000;
+}
